@@ -1,0 +1,291 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Clasificación</title>
+  </head>
+  <body>
+    <p>La Clasificación de La Liga 2019-2020 es:</p>
+	<ul>
+	<table>
+<th>
+   
+     	<td>PJ</td>
+   		
+   		<td>V</td>
+  		
+  		<td>E</td>
+  		
+  		<td>D</td>
+  		
+  		<td>GF</td>
+     	
+     	<td>GC</td>
+  	 	
+  	 	<td>DG</td>
+  	 	
+  	 	<td>Pts</td>
+</th>
+<tr>
+ <td>Barcelona</td>
+   
+   <td>12</td>
+   <td>8</td>
+   <td>1</td>
+   <td>3</td>
+   <td>33</td>
+   <td>15</td>
+   <td>18</td>
+   <td>25</td>
+</tr>
+
+<tr>
+ <td>Real Madrid</td>
+   
+   <td>12</td>
+   <td>7</td>
+   <td>4</td>
+   <td>1</td>
+   <td>25</td>
+   <td>9</td>
+   <td>16</td>
+   <td>25</td>
+</tr>
+
+<tr>
+ <td>Atletico</td>
+   
+   <td>13</td>
+   <td>6</td>
+   <td>6</td>
+   <td>1</td>
+   <td>15</td>
+   <td>8</td>
+   <td>7</td>
+   <td>24</td>
+</tr>
+
+<tr>
+ <td>Sevilla</td>
+   
+   <td>13</td>
+   <td>7</td>
+   <td>3</td>
+   <td>3</td>
+   <td>17</td>
+   <td>14</td>
+   <td>3</td>
+   <td>24</td>
+</tr>
+
+<tr>
+ <td>R.Socidad</td>
+   
+   <td>13</td>
+   <td>7</td>
+   <td>2</td>
+   <td>4</td>
+   <td>21</td>
+   <td>14</td>
+   <td>7</td>
+   <td>23</td>
+</tr>
+
+<tr>
+ <td>Athletic</td>
+   
+   <td>13</td>
+   <td>5</td>
+   <td>5</td>
+   <td>3</td>
+   <td>13</td>
+   <td>8</td>
+   <td>5</td>
+   <td>20</td>
+</tr>
+
+<tr>
+ <td>Getafe</td>
+   
+   <td>13</td>
+   <td>5</td>
+   <td>5</td>
+   <td>3</td>
+   <td>18</td>
+   <td>15</td>
+   <td>3</td>
+   <td>20</td>
+</tr>
+
+<tr>
+ <td>Granada</td>
+   
+   <td>13</td>
+   <td>6</td>
+   <td>2</td>
+   <td>5</td>
+   <td>19</td>
+   <td>17</td>
+   <td>2</td>
+   <td>20</td>
+</tr>
+
+<tr>
+ <td>Valencia</td>
+   
+   <td>13</td>
+   <td>5</td>
+   <td>5</td>
+   <td>3</td>
+   <td>19</td>
+   <td>18</td>
+   <td>1</td>
+   <td>20</td>
+</tr>
+
+<tr>
+ <td>Osasuna</td>
+   
+   <td>13</td>
+   <td>4</td>
+   <td>7</td>
+   <td>2</td>
+   <td>16</td>
+   <td>13</td>
+   <td>3</td>
+   <td>19</td>
+</tr>
+
+<tr>
+ <td>Villareal</td>
+   
+   <td>13</td>
+   <td>5</td>
+   <td>3</td>
+   <td>5</td>
+   <td>26</td>
+   <td>19</td>
+   <td>7</td>
+   <td>18</td>
+</tr>
+		
+<tr>
+ <td>Levante</td>
+   
+   <td>13</td>
+   <td>5</td>
+   <td>2</td>
+   <td>6</td>
+   <td>16</td>
+   <td>16</td>
+   <td>0</td>
+   <td>17</td>
+</tr>
+
+<tr>
+ <td>Real Valladolid</td>
+   
+   <td>13</td>
+   <td>4</td>
+   <td>5</td>
+   <td>4</td>
+   <td>14</td>
+   <td>17</td>
+   <td>-3</td>
+   <td>17</td>
+</tr>
+
+<tr>
+ <td>Alavés</td>
+   
+   <td>13</td>
+   <td>4</td>
+   <td>3</td>
+   <td>6</td>
+   <td>14</td>
+   <td>18</td>
+   <td>-4</td>
+   <td>15</td>
+</tr>
+
+<tr>
+ <td>Eibar</td>
+   
+   <td>13</td>
+   <td>4</td>
+   <td>3</td>
+   <td>6</td>
+   <td>14</td>
+   <td>21</td>
+   <td>-7</td>
+   <td>15</td>
+</tr>
+
+<tr>
+ <td>Mallorca</td>
+   
+   <td>13</td>
+   <td>4</td>
+   <td>2</td>
+   <td>7</td>
+   <td>12</td>
+   <td>19</td>
+   <td>-7</td>
+   <td>14</td>
+</tr>
+
+<tr>
+ <td>Betis</td>
+   
+   <td>13</td>
+   <td>3</td>
+   <td>4</td>
+   <td>6</td>
+   <td>15</td>
+   <td>23</td>
+   <td>-8</td>
+   <td>13</td>
+</tr>
+
+<tr>
+ <td>Celta</td>
+   
+   <td>13</td>
+   <td>2</td>
+   <td>3</td>
+   <td>8</td>
+   <td>7</td>
+   <td>19</td>
+   <td>-12</td>
+   <td>9</td>
+</tr>
+
+<tr>
+ <td>Espanyol</td>
+   
+   <td>13</td>
+   <td>2</td>
+   <td>2</td>
+   <td>9</td>
+   <td>7</td>
+   <td>23</td>
+   <td>-16</td>
+   <td>8</td>
+</tr>
+
+<tr>
+ <td>Leganés</td>
+   
+   <td>13</td>
+   <td>1</td>
+   <td>3</td>
+   <td>9</td>
+   <td>7</td>
+   <td>22</td>
+   <td>-15</td>
+   <td>6</td>
+</tr>
+		
+</ul>
+  </body>
+</html>
